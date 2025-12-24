@@ -61,7 +61,7 @@ const Hero: React.FC = () => {
             </a>
 
             <a
-              href="https://drive.google.com/file/d/1Yyf5NjnPBCJPZ0c4YWI6hjS67-O6l1fL/view?usp=sharing"
+              href="https://drive.google.com/file/d/19opV1h4pRcwGDgpSmJ_4YEc9OjJb-5_o/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-3 bg-white text-slate-800 border-2 border-slate-100 rounded-xl
